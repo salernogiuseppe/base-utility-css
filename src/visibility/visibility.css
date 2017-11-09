@@ -1,0 +1,7 @@
+/* ! Base Utility CSS - visibility
+## Homepage: https://github.com/salernogiuseppe/base-utility-css
+## License:  GPL-3.0 (GNU General Public License v3.0)
+## Version: v1.0.0
+*/
+.visible {visibility: visible !important;}
+.invisible {visibility: hidden !important;}
