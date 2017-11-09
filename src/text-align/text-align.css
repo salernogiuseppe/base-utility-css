@@ -1,0 +1,14 @@
+/* ! Base Utility CSS text-align
+## Homepage: https://github.com/salernogiuseppe/base-utility-css
+## License:  GPL-3.0 (GNU General Public License v3.0)
+## Version: v1.0.0
+*/
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.text-center { text-align: center; }
+.text-justify { text-align: justify; }
+.text-nowrap { white-space: nowrap; }
+.text-truncate { overflow: hidden;text-overflow: ellipsis;white-space: nowrap; }
+.text-lowercase {text-transform: lowercase;}
+.text-uppercase {text-transform: uppercase;}
+.text-capitalize {text-transform: capitalize;}
