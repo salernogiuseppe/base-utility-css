@@ -1,0 +1,21 @@
+{
+"name": "base-utility-css",
+"version": "1.0.0",
+"description": "Standard CSS Classes for a basic framework",
+"style": "src/base-utility.css",
+"author": "Giuseppe Salerno",
+"license": "GPL-3.0",
+"keywords": [
+"minimal css",
+"utility css",
+"css",
+"framework",
+"simple class for css",
+"base utility"
+],
+"repository": {
+"type": "git",
+"url": "https://github.com/salernogiuseppe/base-utility-css"
+},
+"homepage": "https://github.com/salernogiuseppe/base-utility-css"
+}
