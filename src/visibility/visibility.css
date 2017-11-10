@@ -4,7 +4,6 @@
 ## Version: v1.0.0
 */
 .visible {visibility: visible !important;}
-<<<<<<< HEAD
 .invisible {visibility: hidden !important;}
 .visible-hov:hover {visibility: visible !important;}
 .invisible-hov:hover {visibility: hidden !important;}
@@ -32,6 +31,4 @@
 .op-80-hov:hover {opacity: 0.80;filter: alpha(opacity=80);}
 .op-90-hov:hover {opacity: 0.90;filter: alpha(opacity=90);}
 .op-100-hov:hover {opacity: 1;filter: alpha(opacity=100);}
-=======
 .invisible {visibility: hidden !important;}
->>>>>>> b3026e42a7de26a0a9c2c6b8d07f26a02d0cad90
