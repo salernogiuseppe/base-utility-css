@@ -22,11 +22,7 @@ font weight */
 
 /* ##########
 font size */
-<<<<<<< HEAD
 .fs-9 { font-size:  9px; }
-=======
-.fs-9 { font-size: -9px; }
->>>>>>> b3026e42a7de26a0a9c2c6b8d07f26a02d0cad90
 .fs-10 { font-size: 10px; }
 .fs-11 { font-size: 11px; }
 .fs-12 { font-size: 12px; }
@@ -360,10 +356,7 @@ position */
 /* ##########
 width */
 .w-25 {width: 25%;}
-<<<<<<< HEAD
-.w-33 {width: 33.33%;}
-=======
->>>>>>> b3026e42a7de26a0a9c2c6b8d07f26a02d0cad90
+.w-33 {width: 33.33333333%;}
 .w-50 {width: 50%;}
 .w-75 {width: 75%;}
 .w-100 {width: 100%;}
@@ -538,7 +531,6 @@ padding */
 /* visibility */
 .visible {visibility: visible !important;}
 .invisible {visibility: hidden !important;}
-<<<<<<< HEAD
 .visible-hov:hover {visibility: visible !important;}
 .invisible-hov:hover {visibility: hidden !important;}
 .op-reset {opacity: inherit;filter: alpha(opacity=inherit);}
@@ -575,5 +567,3 @@ padding */
 .txt-dec-none-hov:hover {text-decoration: none;}
 .txt-dec-underline-hov:hover {text-decoration: underline;}
 .txt-dec-line-hov:hover {text-decoration: line-through;}
-=======
->>>>>>> b3026e42a7de26a0a9c2c6b8d07f26a02d0cad90
