@@ -6,7 +6,7 @@ Minimal Standard CSS Classes for a basic framework
 
 ## Features
 
-### Simple, Fast
+### Essential Class
 
 Use these simple classes to accelerate the process of building your web app
 
