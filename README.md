@@ -34,5 +34,5 @@ Base Utility CSS provides a lightweight and performant design style sheet by any
 
 ## Contributes
 
-Based on a schema bootstrap class 4 with the addition of useful classes of compensation
+Based on a schema bootstrap class 4 with the addition of useful classes of compensation.
 
