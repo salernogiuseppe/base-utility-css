@@ -6,11 +6,11 @@ Minimal Standard CSS Classes for a basic framework
 
 ## Features
 
-### Essential Class
+### Simple, Fast.
 
 Use these simple classes to accelerate the process of building your web app
 
-### Essential Class
+### Essential Classes
 
 Essential for classes for your application, CSS3 framework with using classes responsive.
 
