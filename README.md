@@ -1,4 +1,4 @@
-# [Base Utility CSS](http://giuseppesalerno.it/base-utility-css) · [![GitHub license](https://img.shields.io/badge/license-GNU-green.svg)](https://github.com/salernogiuseppe/base-utility-css/blob/master/LICENSE)
+# [Base Utility CSS](http://giuseppesalerno.it/base-utility-css) · [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/salernogiuseppe/base-utility-css/blob/master/LICENSE)
 
 Low-level CSS utility
 
